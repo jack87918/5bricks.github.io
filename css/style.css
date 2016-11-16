@@ -105,6 +105,7 @@ header {
 	background-color: rgba(223, 223, 223, 0.34);
 }
 .bx-wrapper .bx-controls-direction a {
+	background:#000;
 	position: absolute;
 	top: 50%;
 	margin-top: -16px;
